@@ -1,0 +1,3 @@
+[console_scripts]
+jp2dump = glymur.command_line:main
+tiff2jp2 = glymur.command_line:tiff2jp2

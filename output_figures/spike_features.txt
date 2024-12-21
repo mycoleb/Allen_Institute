@@ -1,0 +1,12 @@
+Analysis of Cell 525011903
+==================================================
+Spike 1 - Amplitude: 0.00 mV
+Spike 2 - Amplitude: 0.00 mV
+Spike 3 - Amplitude: 0.00 mV
+Spike 4 - Amplitude: 0.00 mV
+Spike 5 - Amplitude: 0.00 mV
+Spike 6 - Amplitude: 0.00 mV
+Spike 7 - Amplitude: 0.00 mV
+Spike 8 - Amplitude: 0.00 mV
+Spike 9 - Amplitude: 0.00 mV
+Spike 10 - Amplitude: 0.00 mV

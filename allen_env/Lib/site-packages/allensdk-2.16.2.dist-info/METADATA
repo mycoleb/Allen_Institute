@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: allensdk
+Version: 2.16.2
+Summary: core libraries for the allensdk.
+Home-page: https://github.com/AllenInstitute/AllenSDK/tree/v2.16.2
+Download-URL: https://github.com/AllenInstitute/AllenSDK/tarball/v2.16.2
+Author: Allen Institute for Brain Science
+Author-email: instituteci@alleninstitute.org
+Keywords: neuroscience,bioinformatics,scientific
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: Other/Proprietary License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+License-File: LICENSE.txt
+Requires-Dist: psycopg2-binary
+Requires-Dist: hdmf (!=3.5.*,!=3.6.*,!=3.7.*,!=3.8.*)
+Requires-Dist: h5py
+Requires-Dist: matplotlib
+Requires-Dist: numpy (<1.24)
+Requires-Dist: pandas (==1.5.3)
+Requires-Dist: jinja2
+Requires-Dist: scipy (<1.11)
+Requires-Dist: six
+Requires-Dist: pynrrd
+Requires-Dist: future
+Requires-Dist: requests
+Requires-Dist: requests-toolbelt
+Requires-Dist: simplejson
+Requires-Dist: scikit-image
+Requires-Dist: scikit-build
+Requires-Dist: statsmodels
+Requires-Dist: simpleitk
+Requires-Dist: argschema
+Requires-Dist: glymur
+Requires-Dist: xarray (<2023.2.0)
+Requires-Dist: pynwb
+Requires-Dist: tables
+Requires-Dist: seaborn
+Requires-Dist: aiohttp
+Requires-Dist: nest-asyncio
+Requires-Dist: tqdm
+Requires-Dist: ndx-events
+Requires-Dist: boto3
+Requires-Dist: semver
+Requires-Dist: cachetools
+Requires-Dist: sqlalchemy
+Requires-Dist: python-dateutil
+

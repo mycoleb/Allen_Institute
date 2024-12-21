@@ -1,0 +1,16 @@
+namespaces:
+- author:
+  - Ryan Ly
+  contact:
+  - rly@lbl.gov
+  doc: NWB extension for storing timestamped event and TTL pulse data
+  name: ndx-events
+  schema:
+  - namespace: core
+    neurodata_types:
+    - NWBDataInterface
+    - DynamicTable
+    - VectorData
+    - VectorIndex
+  - source: ndx-events.extensions.yaml
+  version: 0.2.0

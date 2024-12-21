@@ -1,0 +1,733 @@
+2024-12-20 18:46:00,224 - root - INFO - Starting neuronal analysis
+2024-12-20 18:46:00,224 - root - INFO - Loading neural recording data
+2024-12-20 18:46:00,275 - root - INFO - Loading data from cell 525011903
+2024-12-20 18:46:00,333 - root - INFO - Creating analyzer with 50000.0 Hz sampling rate
+2024-12-20 18:46:00,333 - analyzers.action_potential - INFO - Initialized ActionPotentialAnalyzer with sampling rate 50000.0 Hz
+2024-12-20 18:46:00,343 - root - INFO - Detected 1534 action potentials
+2024-12-20 18:46:00,348 - root - INFO - Spike 1 - Amplitude: 0.00 mV
+2024-12-20 18:46:02,126 - root - INFO - Spike 2 - Amplitude: 0.00 mV
+2024-12-20 18:46:02,552 - root - INFO - Spike 3 - Amplitude: 0.00 mV
+2024-12-20 18:46:02,899 - root - INFO - Spike 4 - Amplitude: 0.00 mV
+2024-12-20 18:46:03,257 - root - INFO - Spike 5 - Amplitude: 0.00 mV
+2024-12-20 18:46:03,602 - root - INFO - Spike 6 - Amplitude: 0.00 mV
+2024-12-20 18:46:03,992 - root - INFO - Spike 7 - Amplitude: 0.00 mV
+2024-12-20 18:46:04,298 - root - INFO - Spike 8 - Amplitude: 0.00 mV
+2024-12-20 18:46:04,644 - root - INFO - Spike 9 - Amplitude: 0.00 mV
+2024-12-20 18:46:04,980 - root - INFO - Spike 10 - Amplitude: 0.00 mV
+2024-12-20 18:46:05,312 - root - INFO - Analysis completed. Results saved in output_figures
+2024-12-20 18:48:10,720 - root - INFO - Starting neuronal analysis
+2024-12-20 18:48:10,720 - root - INFO - Loading neural recording data
+2024-12-20 18:48:10,758 - root - INFO - Loading data from cell 525011903
+2024-12-20 18:48:10,808 - root - INFO - Creating analyzer with 50000.0 Hz sampling rate
+2024-12-20 18:48:10,808 - analyzers.action_potential - INFO - Initialized ActionPotentialAnalyzer with sampling rate 50000.0 Hz
+2024-12-20 18:48:10,820 - root - INFO - Detected 1534 action potentials
+2024-12-20 18:48:10,823 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:10,823 - root - INFO - Spike 1 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,134 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,134 - root - ERROR - Failed to analyze spike 1: 'width'
+2024-12-20 18:48:11,134 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,134 - root - INFO - Spike 2 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,221 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,221 - root - ERROR - Failed to analyze spike 2: 'width'
+2024-12-20 18:48:11,224 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,224 - root - INFO - Spike 3 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,288 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,288 - root - ERROR - Failed to analyze spike 3: 'width'
+2024-12-20 18:48:11,288 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,288 - root - INFO - Spike 4 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,383 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,383 - root - ERROR - Failed to analyze spike 4: 'width'
+2024-12-20 18:48:11,383 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,383 - root - INFO - Spike 5 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,453 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,453 - root - ERROR - Failed to analyze spike 5: 'width'
+2024-12-20 18:48:11,455 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,455 - root - INFO - Spike 6 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,534 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,534 - root - ERROR - Failed to analyze spike 6: 'width'
+2024-12-20 18:48:11,534 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,534 - root - INFO - Spike 7 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,603 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,603 - root - ERROR - Failed to analyze spike 7: 'width'
+2024-12-20 18:48:11,603 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,603 - root - INFO - Spike 8 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,682 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,682 - root - ERROR - Failed to analyze spike 8: 'width'
+2024-12-20 18:48:11,682 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,682 - root - INFO - Spike 9 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,750 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,750 - root - ERROR - Failed to analyze spike 9: 'width'
+2024-12-20 18:48:11,750 - analyzers.action_potential - WARNING - Very small spike amplitude detected - possible detection error
+2024-12-20 18:48:11,750 - root - INFO - Spike 10 - Amplitude: 0.00 mV
+2024-12-20 18:48:11,821 - visualizers.visualizer - ERROR - Error plotting waveform: 'width'
+2024-12-20 18:48:11,821 - root - ERROR - Failed to analyze spike 10: 'width'
+2024-12-20 18:48:11,822 - root - INFO - Analysis completed. Results saved in output_figures
+2024-12-20 18:59:00,812 - root - INFO - Starting neuronal analysis
+2024-12-20 18:59:00,812 - root - INFO - Loading neural recording data
+2024-12-20 18:59:00,861 - root - INFO - Loading data from cell 525011903
+2024-12-20 18:59:00,907 - root - INFO - Creating analyzer with 50000.0 Hz sampling rate
+2024-12-20 18:59:00,907 - analyzers.action_potential - INFO - Initialized analyzer - baseline: -0.07 mV, threshold: -0.07 mV
+2024-12-20 18:59:00,907 - analyzers.action_potential - INFO - Voltage stats - mean: -0.07 mV, std: 0.00 mV
+2024-12-20 18:59:00,907 - analyzers.action_potential - WARNING - Filtered out 1 small events that were likely not spikes
+2024-12-20 18:59:00,907 - analyzers.action_potential - INFO - Detected 0 valid action potentials
+2024-12-20 18:59:00,907 - root - INFO - Detected 0 action potentials
+2024-12-20 18:59:00,907 - root - WARNING - No spikes detected in recording
+2024-12-20 18:59:33,760 - root - INFO - Starting neuronal analysis
+2024-12-20 18:59:33,760 - root - INFO - Loading neural recording data
+2024-12-20 18:59:33,792 - root - INFO - Loading data from cell 525011903
+2024-12-20 18:59:33,855 - root - INFO - Creating analyzer with 50000.0 Hz sampling rate
+2024-12-20 18:59:33,855 - analyzers.action_potential - INFO - Initialized analyzer - baseline: -0.07 mV, threshold: -0.07 mV
+2024-12-20 18:59:33,855 - analyzers.action_potential - INFO - Voltage stats - mean: -0.07 mV, std: 0.00 mV
+2024-12-20 18:59:33,855 - analyzers.action_potential - WARNING - Filtered out 1 small events that were likely not spikes
+2024-12-20 18:59:33,855 - analyzers.action_potential - INFO - Detected 0 valid action potentials
+2024-12-20 18:59:33,855 - root - INFO - Detected 0 action potentials
+2024-12-20 18:59:33,855 - root - WARNING - No spikes detected in recording
+2024-12-20 19:05:33,411 - root - INFO - Starting neuronal analysis
+2024-12-20 19:05:33,412 - root - INFO - Loading and examining neural recording data
+2024-12-20 19:05:33,447 - root - INFO - 
+Examining cell 525011903
+2024-12-20 19:05:33,474 - root - INFO - Available sweeps: [10, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 11, 110, 111, 112, 115, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 47, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 6, 60, 62, 63, 65, 66, 67, 68, 69, 7, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 8, 80, 81, 82, 83, 84, 85, 86, 87, 88, 9, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+2024-12-20 19:05:33,494 - root - INFO - 
+Sweep data structure:
+2024-12-20 19:05:33,495 - root - INFO - stimulus: array of shape (101150,), dtype float32
+2024-12-20 19:05:33,496 - root - INFO -     range: [0.000e+00 to 4.000e-10]
+2024-12-20 19:05:33,496 - root - INFO - response: array of shape (101150,), dtype float32
+2024-12-20 19:05:33,497 - root - INFO -     range: [-7.097e-02 to -5.516e-02]
+2024-12-20 19:05:33,497 - root - INFO - stimulus_unit: <class 'str'> = Amps
+2024-12-20 19:05:33,497 - root - INFO - index_range: <class 'tuple'> = (37500, 101149)
+2024-12-20 19:05:33,498 - root - INFO - sampling_rate: <class 'numpy.float64'> = 50000.0
+2024-12-20 19:05:33,501 - root - INFO - 
+Sweep metadata:
+2024-12-20 19:05:33,501 - root - INFO - aibs_stimulus_amplitude_pa: 400.000005340573
+2024-12-20 19:05:33,501 - root - INFO - aibs_stimulus_name: b'Short Square'
+2024-12-20 19:05:33,502 - root - INFO - initial_access_resistance: 12.931512
+2024-12-20 19:05:33,502 - root - INFO - seal: 1.125671168
+2024-12-20 19:05:33,504 - root - INFO - 
+Voltage recording statistics:
+2024-12-20 19:05:33,505 - root - INFO - Duration: 2.023 seconds
+2024-12-20 19:05:33,505 - root - INFO - Sampling rate: 50000.0 Hz
+2024-12-20 19:05:33,505 - root - INFO - Number of samples: 101150
+2024-12-20 19:05:33,505 - root - INFO - Voltage range: [-7.097e-02 to -5.516e-02]
+2024-12-20 19:05:33,506 - root - INFO - Mean voltage: -7.040e-02
+2024-12-20 19:05:33,507 - root - INFO - Voltage std: 8.352e-04
+2024-12-20 19:08:44,256 - root - INFO - Starting neuronal analysis
+2024-12-20 19:08:44,256 - root - INFO - Loading and examining neural recording data
+2024-12-20 19:08:44,364 - root - INFO - 
+Found promising sweep 100:
+2024-12-20 19:08:44,364 - root - INFO - Stimulus type: b'Short Square - Triple'
+2024-12-20 19:08:44,364 - root - INFO - Stimulus amplitude: 830.0 pA
+2024-12-20 19:08:44,364 - root - INFO - Voltage range during stimulus: 109.8 mV
+2024-12-20 19:08:44,366 - root - INFO - 
+Voltage recording statistics:
+2024-12-20 19:08:44,366 - root - INFO - Duration: 3.669 seconds
+2024-12-20 19:08:44,366 - root - INFO - Sampling rate: 50000.0 Hz
+2024-12-20 19:08:44,368 - root - INFO - Number of samples: 183450
+2024-12-20 19:08:44,368 - root - INFO - Voltage range: [-7.091e+01 to 3.894e+01]
+2024-12-20 19:08:44,369 - root - INFO - Mean voltage: -6.949e+01
+2024-12-20 19:08:44,369 - root - INFO - Voltage std: 3.076e+00
+2024-12-20 19:17:46,741 - root - INFO - Starting neuronal analysis
+2024-12-20 19:17:46,749 - root - INFO - Starting exploration of neural recording data
+2024-12-20 19:17:46,885 - root - INFO - 
+Found 2333 total cells in database
+2024-12-20 19:17:46,945 - root - INFO - 
+Examining cell 525011903
+2024-12-20 19:17:46,946 - root - INFO - Found 106 total sweeps
+2024-12-20 19:17:46,946 - root - INFO - 
+Analyzing all sweeps:
+2024-12-20 19:17:46,947 - root - INFO - Sweep	Stimulus Type	Amplitude(pA)	Voltage Range(mV)
+2024-12-20 19:17:46,948 - root - INFO - ------------------------------------------------------------
+2024-12-20 19:17:47,020 - root - INFO - 10	b'Short Square'	400.0	15.8
+2024-12-20 19:17:47,057 - root - INFO - 100	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:17:47,083 - root - INFO - 101	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:47,121 - root - INFO - 102	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:17:47,184 - root - INFO - 103	b'Short Square - Triple'	830.0	106.4
+2024-12-20 19:17:47,223 - root - INFO - 104	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:17:47,264 - root - INFO - 105	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:17:47,298 - root - INFO - 106	b'Short Square - Triple'	830.0	108.8
+2024-12-20 19:17:47,325 - root - INFO - 107	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:47,355 - root - INFO - 108	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:17:47,383 - root - INFO - 109	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:17:47,407 - root - INFO - 11	b'Short Square'	500.0	112.7
+2024-12-20 19:17:47,438 - root - INFO - 110	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:17:47,461 - root - INFO - 111	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:47,483 - root - INFO - 112	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:47,506 - root - INFO - 115	b'Test'	0.0	0.4
+2024-12-20 19:17:47,525 - root - INFO - 12	b'Short Square'	450.0	17.7
+2024-12-20 19:17:47,547 - root - INFO - 13	b'Short Square'	470.0	18.6
+2024-12-20 19:17:47,569 - root - INFO - 14	b'Short Square'	490.0	19.7
+2024-12-20 19:17:47,590 - root - INFO - 15	b'Short Square'	510.0	113.4
+2024-12-20 19:17:47,621 - root - INFO - 16	b'Short Square'	500.0	19.8
+2024-12-20 19:17:47,674 - root - INFO - 17	b'Short Square'	510.0	19.3
+2024-12-20 19:17:47,713 - root - INFO - 18	b'Short Square'	520.0	19.9
+2024-12-20 19:17:47,739 - root - INFO - 19	b'Short Square'	530.0	20.0
+2024-12-20 19:17:47,763 - root - INFO - 20	b'Short Square'	540.0	20.2
+2024-12-20 19:17:47,783 - root - INFO - 21	b'Short Square'	550.0	20.5
+2024-12-20 19:17:47,811 - root - INFO - 22	b'Short Square'	560.0	20.7
+2024-12-20 19:17:47,840 - root - INFO - 23	b'Short Square'	570.0	21.1
+2024-12-20 19:17:47,855 - root - INFO - 24	b'Short Square'	580.0	21.6
+2024-12-20 19:17:47,874 - root - INFO - 25	b'Short Square'	590.0	112.2
+2024-12-20 19:17:47,894 - root - INFO - 26	b'Short Square'	590.0	112.8
+2024-12-20 19:17:47,908 - root - INFO - 27	b'Short Square'	590.0	21.3
+2024-12-20 19:17:47,924 - root - INFO - 28	b'Short Square'	590.0	111.8
+2024-12-20 19:17:47,941 - root - INFO - 29	b'Short Square'	590.0	21.3
+2024-12-20 19:17:47,976 - root - INFO - 30	b'Long Square'	-110.0	20.3
+2024-12-20 19:17:48,006 - root - INFO - 31	b'Long Square'	-90.0	17.0
+2024-12-20 19:17:48,045 - root - INFO - 32	b'Long Square'	-70.0	13.6
+2024-12-20 19:17:48,078 - root - INFO - 33	b'Long Square'	-50.0	10.3
+2024-12-20 19:17:48,125 - root - INFO - 34	b'Long Square'	-30.0	6.4
+2024-12-20 19:17:48,155 - root - INFO - 35	b'Long Square'	-10.0	2.8
+2024-12-20 19:17:48,242 - root - INFO - 36	b'Long Square'	10.0	2.7
+2024-12-20 19:17:48,291 - root - INFO - 37	b'Long Square'	30.0	7.7
+2024-12-20 19:17:48,376 - root - INFO - 38	b'Long Square'	50.0	13.2
+2024-12-20 19:17:48,427 - root - INFO - 39	b'Long Square'	70.0	22.5
+2024-12-20 19:17:48,539 - root - INFO - 4	b'Ramp'	800.0	109.0
+2024-12-20 19:17:48,581 - root - INFO - 40	b'Long Square'	90.0	114.2
+2024-12-20 19:17:48,615 - root - INFO - 41	b'Long Square'	110.0	113.5
+2024-12-20 19:17:48,651 - root - INFO - 42	b'Long Square'	130.0	112.9
+2024-12-20 19:17:48,689 - root - INFO - 43	b'Long Square'	150.0	112.6
+2024-12-20 19:17:48,724 - root - INFO - 44	b'Long Square'	170.0	112.8
+2024-12-20 19:17:48,753 - root - INFO - 45	b'Long Square'	190.0	113.7
+2024-12-20 19:17:48,786 - root - INFO - 46	b'Long Square'	210.0	114.6
+2024-12-20 19:17:48,812 - root - INFO - 47	b'Long Square'	230.0	114.3
+2024-12-20 19:17:48,855 - root - INFO - 49	b'Long Square'	90.0	112.2
+2024-12-20 19:17:48,926 - root - INFO - 5	b'Ramp'	800.0	109.8
+2024-12-20 19:17:48,954 - root - INFO - 50	b'Long Square'	90.0	113.8
+2024-12-20 19:17:48,985 - root - INFO - 51	b'Long Square'	90.0	113.4
+2024-12-20 19:17:49,010 - root - INFO - 52	b'Long Square'	90.0	113.1
+2024-12-20 19:17:49,084 - root - INFO - 53	b'Noise 1'	208.8	112.8
+2024-12-20 19:17:49,168 - root - INFO - 54	b'Noise 2'	212.5	112.9
+2024-12-20 19:17:49,256 - root - INFO - 55	b'Noise 1'	208.8	113.2
+2024-12-20 19:17:49,335 - root - INFO - 56	b'Noise 2'	212.5	112.1
+2024-12-20 19:17:49,411 - root - INFO - 57	b'Noise 1'	208.8	112.5
+2024-12-20 19:17:49,489 - root - INFO - 58	b'Noise 2'	212.5	111.9
+2024-12-20 19:17:49,569 - root - INFO - 59	b'Noise 1'	208.8	112.5
+2024-12-20 19:17:49,639 - root - INFO - 6	b'Ramp'	800.0	110.3
+2024-12-20 19:17:49,728 - root - INFO - 60	b'Noise 2'	212.5	112.1
+2024-12-20 19:17:49,763 - root - INFO - 62	b'Square - 0.5ms Subthreshold'	-200.0	3.5
+2024-12-20 19:17:49,815 - root - INFO - 63	b'Square - 0.5ms Subthreshold'	-200.0	3.3
+2024-12-20 19:17:49,859 - root - INFO - 65	b'Square - 2s Suprathreshold'	100.0	111.2
+2024-12-20 19:17:49,897 - root - INFO - 66	b'Square - 2s Suprathreshold'	100.0	110.9
+2024-12-20 19:17:49,931 - root - INFO - 67	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:17:49,966 - root - INFO - 68	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:17:50,002 - root - INFO - 69	b'Square - 2s Suprathreshold'	140.0	110.6
+2024-12-20 19:17:50,021 - root - INFO - 7	b'Short Square'	100.0	4.3
+2024-12-20 19:17:50,058 - root - INFO - 70	b'Square - 2s Suprathreshold'	140.0	110.3
+2024-12-20 19:17:50,092 - root - INFO - 71	b'Square - 2s Suprathreshold'	140.0	109.7
+2024-12-20 19:17:50,125 - root - INFO - 72	b'Square - 2s Suprathreshold'	140.0	109.3
+2024-12-20 19:17:50,163 - root - INFO - 73	b'Square - 2s Suprathreshold'	180.0	110.7
+2024-12-20 19:17:50,199 - root - INFO - 74	b'Square - 2s Suprathreshold'	180.0	109.9
+2024-12-20 19:17:50,241 - root - INFO - 75	b'Square - 2s Suprathreshold'	180.0	109.8
+2024-12-20 19:17:50,277 - root - INFO - 76	b'Square - 2s Suprathreshold'	180.0	110.2
+2024-12-20 19:17:50,408 - root - INFO - 77	b'Ramp to Rheobase'	338.8	113.2
+2024-12-20 19:17:50,559 - root - INFO - 78	b'Ramp to Rheobase'	338.8	113.3
+2024-12-20 19:17:50,706 - root - INFO - 79	b'Ramp to Rheobase'	338.8	112.3
+2024-12-20 19:17:50,731 - root - INFO - 8	b'Short Square'	200.0	7.8
+2024-12-20 19:17:50,762 - root - INFO - 80	b'Short Square - Triple'	590.0	16.7
+2024-12-20 19:17:50,784 - root - INFO - 81	b'Short Square - Triple'	600.0	16.8
+2024-12-20 19:17:50,804 - root - INFO - 82	b'Short Square - Triple'	610.0	16.8
+2024-12-20 19:17:50,822 - root - INFO - 83	b'Short Square - Triple'	630.0	17.5
+2024-12-20 19:17:50,840 - root - INFO - 84	b'Short Square - Triple'	650.0	18.1
+2024-12-20 19:17:50,861 - root - INFO - 85	b'Short Square - Triple'	700.0	19.3
+2024-12-20 19:17:50,883 - root - INFO - 86	b'Short Square - Triple'	750.0	21.3
+2024-12-20 19:17:50,905 - root - INFO - 87	b'Short Square - Triple'	800.0	23.0
+2024-12-20 19:17:50,940 - root - INFO - 88	b'Short Square - Triple'	850.0	110.2
+2024-12-20 19:17:50,958 - root - INFO - 9	b'Short Square'	300.0	11.8
+2024-12-20 19:17:50,982 - root - INFO - 90	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:17:51,005 - root - INFO - 91	b'Short Square - Triple'	820.0	109.1
+2024-12-20 19:17:51,038 - root - INFO - 92	b'Short Square - Triple'	830.0	109.0
+2024-12-20 19:17:51,061 - root - INFO - 93	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:51,086 - root - INFO - 94	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:17:51,117 - root - INFO - 95	b'Short Square - Triple'	830.0	107.7
+2024-12-20 19:17:51,139 - root - INFO - 96	b'Short Square - Triple'	830.0	109.2
+2024-12-20 19:17:51,160 - root - INFO - 97	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:17:51,185 - root - INFO - 98	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:17:51,208 - root - INFO - 99	b'Short Square - Triple'	830.0	109.4
+2024-12-20 19:17:51,208 - root - INFO - 
+Found 79 sweeps with significant activity
+2024-12-20 19:17:51,208 - root - INFO - 
+Sweeps with neural activity:
+2024-12-20 19:17:51,209 - root - INFO - Sweep	Stimulus Type	Amplitude(pA)	Voltage Range(mV)
+2024-12-20 19:17:51,209 - root - INFO - ------------------------------------------------------------
+2024-12-20 19:17:51,209 - root - INFO - 100	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:17:51,210 - root - INFO - 101	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:51,210 - root - INFO - 102	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:17:51,210 - root - INFO - 103	b'Short Square - Triple'	830.0	106.4
+2024-12-20 19:17:51,211 - root - INFO - 104	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:17:51,211 - root - INFO - 105	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:17:51,211 - root - INFO - 106	b'Short Square - Triple'	830.0	108.8
+2024-12-20 19:17:51,211 - root - INFO - 107	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:51,211 - root - INFO - 108	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:17:51,212 - root - INFO - 109	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:17:51,212 - root - INFO - 11	b'Short Square'	500.0	112.7
+2024-12-20 19:17:51,212 - root - INFO - 110	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:17:51,212 - root - INFO - 111	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:51,214 - root - INFO - 112	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:51,214 - root - INFO - 15	b'Short Square'	510.0	113.4
+2024-12-20 19:17:51,214 - root - INFO - 19	b'Short Square'	530.0	20.0
+2024-12-20 19:17:51,214 - root - INFO - 20	b'Short Square'	540.0	20.2
+2024-12-20 19:17:51,214 - root - INFO - 21	b'Short Square'	550.0	20.5
+2024-12-20 19:17:51,215 - root - INFO - 22	b'Short Square'	560.0	20.7
+2024-12-20 19:17:51,216 - root - INFO - 23	b'Short Square'	570.0	21.1
+2024-12-20 19:17:51,216 - root - INFO - 24	b'Short Square'	580.0	21.6
+2024-12-20 19:17:51,217 - root - INFO - 25	b'Short Square'	590.0	112.2
+2024-12-20 19:17:51,217 - root - INFO - 26	b'Short Square'	590.0	112.8
+2024-12-20 19:17:51,217 - root - INFO - 27	b'Short Square'	590.0	21.3
+2024-12-20 19:17:51,217 - root - INFO - 28	b'Short Square'	590.0	111.8
+2024-12-20 19:17:51,218 - root - INFO - 29	b'Short Square'	590.0	21.3
+2024-12-20 19:17:51,218 - root - INFO - 30	b'Long Square'	-110.0	20.3
+2024-12-20 19:17:51,218 - root - INFO - 39	b'Long Square'	70.0	22.5
+2024-12-20 19:17:51,218 - root - INFO - 4	b'Ramp'	800.0	109.0
+2024-12-20 19:17:51,219 - root - INFO - 40	b'Long Square'	90.0	114.2
+2024-12-20 19:17:51,219 - root - INFO - 41	b'Long Square'	110.0	113.5
+2024-12-20 19:17:51,220 - root - INFO - 42	b'Long Square'	130.0	112.9
+2024-12-20 19:17:51,220 - root - INFO - 43	b'Long Square'	150.0	112.6
+2024-12-20 19:17:51,221 - root - INFO - 44	b'Long Square'	170.0	112.8
+2024-12-20 19:17:51,221 - root - INFO - 45	b'Long Square'	190.0	113.7
+2024-12-20 19:17:51,221 - root - INFO - 46	b'Long Square'	210.0	114.6
+2024-12-20 19:17:51,221 - root - INFO - 47	b'Long Square'	230.0	114.3
+2024-12-20 19:17:51,222 - root - INFO - 49	b'Long Square'	90.0	112.2
+2024-12-20 19:17:51,222 - root - INFO - 5	b'Ramp'	800.0	109.8
+2024-12-20 19:17:51,222 - root - INFO - 50	b'Long Square'	90.0	113.8
+2024-12-20 19:17:51,222 - root - INFO - 51	b'Long Square'	90.0	113.4
+2024-12-20 19:17:51,224 - root - INFO - 52	b'Long Square'	90.0	113.1
+2024-12-20 19:17:51,224 - root - INFO - 53	b'Noise 1'	208.8	112.8
+2024-12-20 19:17:51,224 - root - INFO - 54	b'Noise 2'	212.5	112.9
+2024-12-20 19:17:51,224 - root - INFO - 55	b'Noise 1'	208.8	113.2
+2024-12-20 19:17:51,225 - root - INFO - 56	b'Noise 2'	212.5	112.1
+2024-12-20 19:17:51,225 - root - INFO - 57	b'Noise 1'	208.8	112.5
+2024-12-20 19:17:51,225 - root - INFO - 58	b'Noise 2'	212.5	111.9
+2024-12-20 19:17:51,225 - root - INFO - 59	b'Noise 1'	208.8	112.5
+2024-12-20 19:17:51,225 - root - INFO - 6	b'Ramp'	800.0	110.3
+2024-12-20 19:17:51,225 - root - INFO - 60	b'Noise 2'	212.5	112.1
+2024-12-20 19:17:51,225 - root - INFO - 65	b'Square - 2s Suprathreshold'	100.0	111.2
+2024-12-20 19:17:51,227 - root - INFO - 66	b'Square - 2s Suprathreshold'	100.0	110.9
+2024-12-20 19:17:51,227 - root - INFO - 67	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:17:51,227 - root - INFO - 68	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:17:51,228 - root - INFO - 69	b'Square - 2s Suprathreshold'	140.0	110.6
+2024-12-20 19:17:51,228 - root - INFO - 70	b'Square - 2s Suprathreshold'	140.0	110.3
+2024-12-20 19:17:51,228 - root - INFO - 71	b'Square - 2s Suprathreshold'	140.0	109.7
+2024-12-20 19:17:51,229 - root - INFO - 72	b'Square - 2s Suprathreshold'	140.0	109.3
+2024-12-20 19:17:51,229 - root - INFO - 73	b'Square - 2s Suprathreshold'	180.0	110.7
+2024-12-20 19:17:51,229 - root - INFO - 74	b'Square - 2s Suprathreshold'	180.0	109.9
+2024-12-20 19:17:51,230 - root - INFO - 75	b'Square - 2s Suprathreshold'	180.0	109.8
+2024-12-20 19:17:51,230 - root - INFO - 76	b'Square - 2s Suprathreshold'	180.0	110.2
+2024-12-20 19:17:51,230 - root - INFO - 77	b'Ramp to Rheobase'	338.8	113.2
+2024-12-20 19:17:51,230 - root - INFO - 78	b'Ramp to Rheobase'	338.8	113.3
+2024-12-20 19:17:51,233 - root - INFO - 79	b'Ramp to Rheobase'	338.8	112.3
+2024-12-20 19:17:51,233 - root - INFO - 86	b'Short Square - Triple'	750.0	21.3
+2024-12-20 19:17:51,233 - root - INFO - 87	b'Short Square - Triple'	800.0	23.0
+2024-12-20 19:17:51,234 - root - INFO - 88	b'Short Square - Triple'	850.0	110.2
+2024-12-20 19:17:51,234 - root - INFO - 90	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:17:51,234 - root - INFO - 91	b'Short Square - Triple'	820.0	109.1
+2024-12-20 19:17:51,235 - root - INFO - 92	b'Short Square - Triple'	830.0	109.0
+2024-12-20 19:17:51,235 - root - INFO - 93	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:17:51,235 - root - INFO - 94	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:17:51,235 - root - INFO - 95	b'Short Square - Triple'	830.0	107.7
+2024-12-20 19:17:51,237 - root - INFO - 96	b'Short Square - Triple'	830.0	109.2
+2024-12-20 19:17:51,237 - root - INFO - 97	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:17:51,238 - root - INFO - 98	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:17:51,238 - root - INFO - 99	b'Short Square - Triple'	830.0	109.4
+2024-12-20 19:33:43,831 - root - INFO - Starting neuronal analysis
+2024-12-20 19:33:43,831 - root - INFO - Starting exploration of neural recording data
+2024-12-20 19:33:43,864 - root - INFO - 
+Found 2333 total cells in database
+2024-12-20 19:33:43,899 - root - INFO - 
+Examining cell 525011903
+2024-12-20 19:33:43,899 - root - INFO - Found 106 total sweeps
+2024-12-20 19:33:43,899 - root - INFO - 
+Analyzing all sweeps:
+2024-12-20 19:33:43,899 - root - INFO - Sweep	Stimulus Type	Amplitude(pA)	Voltage Range(mV)
+2024-12-20 19:33:43,899 - root - INFO - ------------------------------------------------------------
+2024-12-20 19:33:43,927 - root - INFO - 10	b'Short Square'	400.0	15.8
+2024-12-20 19:33:43,938 - root - INFO - 100	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:33:43,952 - root - INFO - 101	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:43,958 - root - INFO - 102	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:33:43,974 - root - INFO - 103	b'Short Square - Triple'	830.0	106.4
+2024-12-20 19:33:43,982 - root - INFO - 104	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:33:43,990 - root - INFO - 105	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:33:44,006 - root - INFO - 106	b'Short Square - Triple'	830.0	108.8
+2024-12-20 19:33:44,018 - root - INFO - 107	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:44,029 - root - INFO - 108	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:33:44,039 - root - INFO - 109	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:33:44,046 - root - INFO - 11	b'Short Square'	500.0	112.7
+2024-12-20 19:33:44,055 - root - INFO - 110	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:33:44,064 - root - INFO - 111	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:44,073 - root - INFO - 112	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:44,087 - root - INFO - 115	b'Test'	0.0	0.4
+2024-12-20 19:33:44,094 - root - INFO - 12	b'Short Square'	450.0	17.7
+2024-12-20 19:33:44,101 - root - INFO - 13	b'Short Square'	470.0	18.6
+2024-12-20 19:33:44,107 - root - INFO - 14	b'Short Square'	490.0	19.7
+2024-12-20 19:33:44,116 - root - INFO - 15	b'Short Square'	510.0	113.4
+2024-12-20 19:33:44,120 - root - INFO - 16	b'Short Square'	500.0	19.8
+2024-12-20 19:33:44,126 - root - INFO - 17	b'Short Square'	510.0	19.3
+2024-12-20 19:33:44,133 - root - INFO - 18	b'Short Square'	520.0	19.9
+2024-12-20 19:33:44,143 - root - INFO - 19	b'Short Square'	530.0	20.0
+2024-12-20 19:33:44,143 - root - INFO - 20	b'Short Square'	540.0	20.2
+2024-12-20 19:33:44,153 - root - INFO - 21	b'Short Square'	550.0	20.5
+2024-12-20 19:33:44,153 - root - INFO - 22	b'Short Square'	560.0	20.7
+2024-12-20 19:33:44,165 - root - INFO - 23	b'Short Square'	570.0	21.1
+2024-12-20 19:33:44,176 - root - INFO - 24	b'Short Square'	580.0	21.6
+2024-12-20 19:33:44,181 - root - INFO - 25	b'Short Square'	590.0	112.2
+2024-12-20 19:33:44,186 - root - INFO - 26	b'Short Square'	590.0	112.8
+2024-12-20 19:33:44,190 - root - INFO - 27	b'Short Square'	590.0	21.3
+2024-12-20 19:33:44,202 - root - INFO - 28	b'Short Square'	590.0	111.8
+2024-12-20 19:33:44,206 - root - INFO - 29	b'Short Square'	590.0	21.3
+2024-12-20 19:33:44,224 - root - INFO - 30	b'Long Square'	-110.0	20.3
+2024-12-20 19:33:44,237 - root - INFO - 31	b'Long Square'	-90.0	17.0
+2024-12-20 19:33:44,274 - root - INFO - 32	b'Long Square'	-70.0	13.6
+2024-12-20 19:33:44,283 - root - INFO - 33	b'Long Square'	-50.0	10.3
+2024-12-20 19:33:44,300 - root - INFO - 34	b'Long Square'	-30.0	6.4
+2024-12-20 19:33:44,317 - root - INFO - 35	b'Long Square'	-10.0	2.8
+2024-12-20 19:33:44,329 - root - INFO - 36	b'Long Square'	10.0	2.7
+2024-12-20 19:33:44,349 - root - INFO - 37	b'Long Square'	30.0	7.7
+2024-12-20 19:33:44,361 - root - INFO - 38	b'Long Square'	50.0	13.2
+2024-12-20 19:33:44,375 - root - INFO - 39	b'Long Square'	70.0	22.5
+2024-12-20 19:33:44,409 - root - INFO - 4	b'Ramp'	800.0	109.0
+2024-12-20 19:33:44,429 - root - INFO - 40	b'Long Square'	90.0	114.2
+2024-12-20 19:33:44,446 - root - INFO - 41	b'Long Square'	110.0	113.5
+2024-12-20 19:33:44,456 - root - INFO - 42	b'Long Square'	130.0	112.9
+2024-12-20 19:33:44,471 - root - INFO - 43	b'Long Square'	150.0	112.6
+2024-12-20 19:33:44,488 - root - INFO - 44	b'Long Square'	170.0	112.8
+2024-12-20 19:33:44,504 - root - INFO - 45	b'Long Square'	190.0	113.7
+2024-12-20 19:33:44,521 - root - INFO - 46	b'Long Square'	210.0	114.6
+2024-12-20 19:33:44,536 - root - INFO - 47	b'Long Square'	230.0	114.3
+2024-12-20 19:33:44,554 - root - INFO - 49	b'Long Square'	90.0	112.2
+2024-12-20 19:33:44,592 - root - INFO - 5	b'Ramp'	800.0	109.8
+2024-12-20 19:33:44,607 - root - INFO - 50	b'Long Square'	90.0	113.8
+2024-12-20 19:33:44,616 - root - INFO - 51	b'Long Square'	90.0	113.4
+2024-12-20 19:33:44,629 - root - INFO - 52	b'Long Square'	90.0	113.1
+2024-12-20 19:33:44,663 - root - INFO - 53	b'Noise 1'	208.8	112.8
+2024-12-20 19:33:44,704 - root - INFO - 54	b'Noise 2'	212.5	112.9
+2024-12-20 19:33:44,745 - root - INFO - 55	b'Noise 1'	208.8	113.2
+2024-12-20 19:33:44,791 - root - INFO - 56	b'Noise 2'	212.5	112.1
+2024-12-20 19:33:44,847 - root - INFO - 57	b'Noise 1'	208.8	112.5
+2024-12-20 19:33:44,879 - root - INFO - 58	b'Noise 2'	212.5	111.9
+2024-12-20 19:33:44,927 - root - INFO - 59	b'Noise 1'	208.8	112.5
+2024-12-20 19:33:44,963 - root - INFO - 6	b'Ramp'	800.0	110.3
+2024-12-20 19:33:45,003 - root - INFO - 60	b'Noise 2'	212.5	112.1
+2024-12-20 19:33:45,022 - root - INFO - 62	b'Square - 0.5ms Subthreshold'	-200.0	3.5
+2024-12-20 19:33:45,037 - root - INFO - 63	b'Square - 0.5ms Subthreshold'	-200.0	3.3
+2024-12-20 19:33:45,055 - root - INFO - 65	b'Square - 2s Suprathreshold'	100.0	111.2
+2024-12-20 19:33:45,073 - root - INFO - 66	b'Square - 2s Suprathreshold'	100.0	110.9
+2024-12-20 19:33:45,082 - root - INFO - 67	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:33:45,106 - root - INFO - 68	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:33:45,125 - root - INFO - 69	b'Square - 2s Suprathreshold'	140.0	110.6
+2024-12-20 19:33:45,129 - root - INFO - 7	b'Short Square'	100.0	4.3
+2024-12-20 19:33:45,145 - root - INFO - 70	b'Square - 2s Suprathreshold'	140.0	110.3
+2024-12-20 19:33:45,167 - root - INFO - 71	b'Square - 2s Suprathreshold'	140.0	109.7
+2024-12-20 19:33:45,185 - root - INFO - 72	b'Square - 2s Suprathreshold'	140.0	109.3
+2024-12-20 19:33:45,199 - root - INFO - 73	b'Square - 2s Suprathreshold'	180.0	110.7
+2024-12-20 19:33:45,219 - root - INFO - 74	b'Square - 2s Suprathreshold'	180.0	109.9
+2024-12-20 19:33:45,224 - root - INFO - 75	b'Square - 2s Suprathreshold'	180.0	109.8
+2024-12-20 19:33:45,256 - root - INFO - 76	b'Square - 2s Suprathreshold'	180.0	110.2
+2024-12-20 19:33:45,303 - root - INFO - 77	b'Ramp to Rheobase'	338.8	113.2
+2024-12-20 19:33:45,366 - root - INFO - 78	b'Ramp to Rheobase'	338.8	113.3
+2024-12-20 19:33:45,432 - root - INFO - 79	b'Ramp to Rheobase'	338.8	112.3
+2024-12-20 19:33:45,442 - root - INFO - 8	b'Short Square'	200.0	7.8
+2024-12-20 19:33:45,450 - root - INFO - 80	b'Short Square - Triple'	590.0	16.7
+2024-12-20 19:33:45,456 - root - INFO - 81	b'Short Square - Triple'	600.0	16.8
+2024-12-20 19:33:45,461 - root - INFO - 82	b'Short Square - Triple'	610.0	16.8
+2024-12-20 19:33:45,461 - root - INFO - 83	b'Short Square - Triple'	630.0	17.5
+2024-12-20 19:33:45,481 - root - INFO - 84	b'Short Square - Triple'	650.0	18.1
+2024-12-20 19:33:45,490 - root - INFO - 85	b'Short Square - Triple'	700.0	19.3
+2024-12-20 19:33:45,502 - root - INFO - 86	b'Short Square - Triple'	750.0	21.3
+2024-12-20 19:33:45,513 - root - INFO - 87	b'Short Square - Triple'	800.0	23.0
+2024-12-20 19:33:45,521 - root - INFO - 88	b'Short Square - Triple'	850.0	110.2
+2024-12-20 19:33:45,528 - root - INFO - 9	b'Short Square'	300.0	11.8
+2024-12-20 19:33:45,541 - root - INFO - 90	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:33:45,551 - root - INFO - 91	b'Short Square - Triple'	820.0	109.1
+2024-12-20 19:33:45,557 - root - INFO - 92	b'Short Square - Triple'	830.0	109.0
+2024-12-20 19:33:45,563 - root - INFO - 93	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:45,577 - root - INFO - 94	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:33:45,588 - root - INFO - 95	b'Short Square - Triple'	830.0	107.7
+2024-12-20 19:33:45,597 - root - INFO - 96	b'Short Square - Triple'	830.0	109.2
+2024-12-20 19:33:45,606 - root - INFO - 97	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:33:45,612 - root - INFO - 98	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:33:45,627 - root - INFO - 99	b'Short Square - Triple'	830.0	109.4
+2024-12-20 19:33:45,627 - root - INFO - 
+Found 79 sweeps with significant activity
+2024-12-20 19:33:45,627 - root - INFO - 
+Sweeps with neural activity:
+2024-12-20 19:33:45,627 - root - INFO - Sweep	Stimulus Type	Amplitude(pA)	Voltage Range(mV)
+2024-12-20 19:33:45,627 - root - INFO - ------------------------------------------------------------
+2024-12-20 19:33:45,627 - root - INFO - 100	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:33:45,627 - root - INFO - 101	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:45,627 - root - INFO - 102	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:33:45,627 - root - INFO - 103	b'Short Square - Triple'	830.0	106.4
+2024-12-20 19:33:45,627 - root - INFO - 104	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:33:45,627 - root - INFO - 105	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:33:45,627 - root - INFO - 106	b'Short Square - Triple'	830.0	108.8
+2024-12-20 19:33:45,627 - root - INFO - 107	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:45,627 - root - INFO - 108	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:33:45,627 - root - INFO - 109	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:33:45,627 - root - INFO - 11	b'Short Square'	500.0	112.7
+2024-12-20 19:33:45,627 - root - INFO - 110	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:33:45,627 - root - INFO - 111	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:45,627 - root - INFO - 112	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:45,627 - root - INFO - 15	b'Short Square'	510.0	113.4
+2024-12-20 19:33:45,627 - root - INFO - 19	b'Short Square'	530.0	20.0
+2024-12-20 19:33:45,627 - root - INFO - 20	b'Short Square'	540.0	20.2
+2024-12-20 19:33:45,627 - root - INFO - 21	b'Short Square'	550.0	20.5
+2024-12-20 19:33:45,627 - root - INFO - 22	b'Short Square'	560.0	20.7
+2024-12-20 19:33:45,627 - root - INFO - 23	b'Short Square'	570.0	21.1
+2024-12-20 19:33:45,627 - root - INFO - 24	b'Short Square'	580.0	21.6
+2024-12-20 19:33:45,627 - root - INFO - 25	b'Short Square'	590.0	112.2
+2024-12-20 19:33:45,627 - root - INFO - 26	b'Short Square'	590.0	112.8
+2024-12-20 19:33:45,627 - root - INFO - 27	b'Short Square'	590.0	21.3
+2024-12-20 19:33:45,627 - root - INFO - 28	b'Short Square'	590.0	111.8
+2024-12-20 19:33:45,627 - root - INFO - 29	b'Short Square'	590.0	21.3
+2024-12-20 19:33:45,627 - root - INFO - 30	b'Long Square'	-110.0	20.3
+2024-12-20 19:33:45,627 - root - INFO - 39	b'Long Square'	70.0	22.5
+2024-12-20 19:33:45,627 - root - INFO - 4	b'Ramp'	800.0	109.0
+2024-12-20 19:33:45,627 - root - INFO - 40	b'Long Square'	90.0	114.2
+2024-12-20 19:33:45,627 - root - INFO - 41	b'Long Square'	110.0	113.5
+2024-12-20 19:33:45,627 - root - INFO - 42	b'Long Square'	130.0	112.9
+2024-12-20 19:33:45,627 - root - INFO - 43	b'Long Square'	150.0	112.6
+2024-12-20 19:33:45,627 - root - INFO - 44	b'Long Square'	170.0	112.8
+2024-12-20 19:33:45,627 - root - INFO - 45	b'Long Square'	190.0	113.7
+2024-12-20 19:33:45,627 - root - INFO - 46	b'Long Square'	210.0	114.6
+2024-12-20 19:33:45,627 - root - INFO - 47	b'Long Square'	230.0	114.3
+2024-12-20 19:33:45,636 - root - INFO - 49	b'Long Square'	90.0	112.2
+2024-12-20 19:33:45,636 - root - INFO - 5	b'Ramp'	800.0	109.8
+2024-12-20 19:33:45,636 - root - INFO - 50	b'Long Square'	90.0	113.8
+2024-12-20 19:33:45,636 - root - INFO - 51	b'Long Square'	90.0	113.4
+2024-12-20 19:33:45,636 - root - INFO - 52	b'Long Square'	90.0	113.1
+2024-12-20 19:33:45,636 - root - INFO - 53	b'Noise 1'	208.8	112.8
+2024-12-20 19:33:45,636 - root - INFO - 54	b'Noise 2'	212.5	112.9
+2024-12-20 19:33:45,636 - root - INFO - 55	b'Noise 1'	208.8	113.2
+2024-12-20 19:33:45,636 - root - INFO - 56	b'Noise 2'	212.5	112.1
+2024-12-20 19:33:45,636 - root - INFO - 57	b'Noise 1'	208.8	112.5
+2024-12-20 19:33:45,636 - root - INFO - 58	b'Noise 2'	212.5	111.9
+2024-12-20 19:33:45,636 - root - INFO - 59	b'Noise 1'	208.8	112.5
+2024-12-20 19:33:45,636 - root - INFO - 6	b'Ramp'	800.0	110.3
+2024-12-20 19:33:45,636 - root - INFO - 60	b'Noise 2'	212.5	112.1
+2024-12-20 19:33:45,636 - root - INFO - 65	b'Square - 2s Suprathreshold'	100.0	111.2
+2024-12-20 19:33:45,636 - root - INFO - 66	b'Square - 2s Suprathreshold'	100.0	110.9
+2024-12-20 19:33:45,636 - root - INFO - 67	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:33:45,636 - root - INFO - 68	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:33:45,636 - root - INFO - 69	b'Square - 2s Suprathreshold'	140.0	110.6
+2024-12-20 19:33:45,636 - root - INFO - 70	b'Square - 2s Suprathreshold'	140.0	110.3
+2024-12-20 19:33:45,636 - root - INFO - 71	b'Square - 2s Suprathreshold'	140.0	109.7
+2024-12-20 19:33:45,636 - root - INFO - 72	b'Square - 2s Suprathreshold'	140.0	109.3
+2024-12-20 19:33:45,636 - root - INFO - 73	b'Square - 2s Suprathreshold'	180.0	110.7
+2024-12-20 19:33:45,636 - root - INFO - 74	b'Square - 2s Suprathreshold'	180.0	109.9
+2024-12-20 19:33:45,636 - root - INFO - 75	b'Square - 2s Suprathreshold'	180.0	109.8
+2024-12-20 19:33:45,636 - root - INFO - 76	b'Square - 2s Suprathreshold'	180.0	110.2
+2024-12-20 19:33:45,636 - root - INFO - 77	b'Ramp to Rheobase'	338.8	113.2
+2024-12-20 19:33:45,636 - root - INFO - 78	b'Ramp to Rheobase'	338.8	113.3
+2024-12-20 19:33:45,636 - root - INFO - 79	b'Ramp to Rheobase'	338.8	112.3
+2024-12-20 19:33:45,636 - root - INFO - 86	b'Short Square - Triple'	750.0	21.3
+2024-12-20 19:33:45,636 - root - INFO - 87	b'Short Square - Triple'	800.0	23.0
+2024-12-20 19:33:45,636 - root - INFO - 88	b'Short Square - Triple'	850.0	110.2
+2024-12-20 19:33:45,636 - root - INFO - 90	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:33:45,636 - root - INFO - 91	b'Short Square - Triple'	820.0	109.1
+2024-12-20 19:33:45,636 - root - INFO - 92	b'Short Square - Triple'	830.0	109.0
+2024-12-20 19:33:45,636 - root - INFO - 93	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:33:45,636 - root - INFO - 94	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:33:45,636 - root - INFO - 95	b'Short Square - Triple'	830.0	107.7
+2024-12-20 19:33:45,636 - root - INFO - 96	b'Short Square - Triple'	830.0	109.2
+2024-12-20 19:33:45,636 - root - INFO - 97	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:33:45,636 - root - INFO - 98	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:33:45,636 - root - INFO - 99	b'Short Square - Triple'	830.0	109.4
+2024-12-20 19:36:16,057 - root - INFO - Starting neuronal analysis
+2024-12-20 19:36:16,057 - root - INFO - Starting exploration of neural recording data
+2024-12-20 19:36:16,099 - root - INFO - 
+Found 2333 total cells in database
+2024-12-20 19:36:16,126 - root - INFO - 
+Examining cell 525011903
+2024-12-20 19:36:16,126 - root - INFO - Found 106 total sweeps
+2024-12-20 19:36:16,126 - root - INFO - 
+Analyzing all sweeps:
+2024-12-20 19:36:16,126 - root - INFO - Sweep	Stimulus Type	Amplitude(pA)	Voltage Range(mV)
+2024-12-20 19:36:16,128 - root - INFO - ------------------------------------------------------------
+2024-12-20 19:36:16,151 - root - INFO - 10	b'Short Square'	400.0	15.8
+2024-12-20 19:36:16,151 - root - INFO - 100	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:36:17,032 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_100.png
+2024-12-20 19:36:17,053 - root - INFO - 101	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:36:17,848 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_101.png
+2024-12-20 19:36:17,876 - root - INFO - 102	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:36:18,638 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_102.png
+2024-12-20 19:36:18,666 - root - INFO - 103	b'Short Square - Triple'	830.0	106.4
+2024-12-20 19:36:19,326 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_103.png
+2024-12-20 19:36:19,343 - root - INFO - 104	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:36:19,941 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_104.png
+2024-12-20 19:36:19,964 - root - INFO - 105	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:36:20,745 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_105.png
+2024-12-20 19:36:20,808 - root - INFO - 106	b'Short Square - Triple'	830.0	108.8
+2024-12-20 19:36:21,521 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_106.png
+2024-12-20 19:36:21,544 - root - INFO - 107	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:36:22,175 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_107.png
+2024-12-20 19:36:22,200 - root - INFO - 108	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:36:22,846 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_108.png
+2024-12-20 19:36:22,872 - root - INFO - 109	b'Short Square - Triple'	830.0	108.5
+2024-12-20 19:36:23,555 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_109.png
+2024-12-20 19:36:23,571 - root - INFO - 11	b'Short Square'	500.0	112.7
+2024-12-20 19:36:24,160 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_11.png
+2024-12-20 19:36:24,192 - root - INFO - 110	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:36:24,857 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_110.png
+2024-12-20 19:36:24,889 - root - INFO - 111	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:36:26,276 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_111.png
+2024-12-20 19:36:26,301 - root - INFO - 112	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:36:26,856 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_112.png
+2024-12-20 19:36:26,873 - root - INFO - 115	b'Test'	0.0	0.4
+2024-12-20 19:36:26,888 - root - INFO - 12	b'Short Square'	450.0	17.7
+2024-12-20 19:36:26,888 - root - INFO - 13	b'Short Square'	470.0	18.6
+2024-12-20 19:36:26,904 - root - INFO - 14	b'Short Square'	490.0	19.7
+2024-12-20 19:36:26,904 - root - INFO - 15	b'Short Square'	510.0	113.4
+2024-12-20 19:36:27,451 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_15.png
+2024-12-20 19:36:27,477 - root - INFO - 16	b'Short Square'	500.0	19.8
+2024-12-20 19:36:27,477 - root - INFO - 17	b'Short Square'	510.0	19.3
+2024-12-20 19:36:27,500 - root - INFO - 18	b'Short Square'	520.0	19.9
+2024-12-20 19:36:27,510 - root - INFO - 19	b'Short Square'	530.0	20.0
+2024-12-20 19:36:28,080 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_19.png
+2024-12-20 19:36:28,097 - root - INFO - 20	b'Short Square'	540.0	20.2
+2024-12-20 19:36:28,653 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_20.png
+2024-12-20 19:36:28,653 - root - INFO - 21	b'Short Square'	550.0	20.5
+2024-12-20 19:36:29,335 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_21.png
+2024-12-20 19:36:29,646 - root - INFO - 22	b'Short Square'	560.0	20.7
+2024-12-20 19:36:30,272 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_22.png
+2024-12-20 19:36:30,286 - root - INFO - 23	b'Short Square'	570.0	21.1
+2024-12-20 19:36:31,026 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_23.png
+2024-12-20 19:36:31,046 - root - INFO - 24	b'Short Square'	580.0	21.6
+2024-12-20 19:36:31,884 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_24.png
+2024-12-20 19:36:31,900 - root - INFO - 25	b'Short Square'	590.0	112.2
+2024-12-20 19:36:32,779 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_25.png
+2024-12-20 19:36:32,803 - root - INFO - 26	b'Short Square'	590.0	112.8
+2024-12-20 19:36:33,531 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_26.png
+2024-12-20 19:36:33,546 - root - INFO - 27	b'Short Square'	590.0	21.3
+2024-12-20 19:36:34,308 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_27.png
+2024-12-20 19:36:34,324 - root - INFO - 28	b'Short Square'	590.0	111.8
+2024-12-20 19:36:34,894 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_28.png
+2024-12-20 19:36:34,910 - root - INFO - 29	b'Short Square'	590.0	21.3
+2024-12-20 19:36:35,513 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_29.png
+2024-12-20 19:36:35,529 - root - INFO - 30	b'Long Square'	-110.0	20.3
+2024-12-20 19:36:36,277 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_30.png
+2024-12-20 19:36:36,310 - root - INFO - 31	b'Long Square'	-90.0	17.0
+2024-12-20 19:36:36,325 - root - INFO - 32	b'Long Square'	-70.0	13.6
+2024-12-20 19:36:36,343 - root - INFO - 33	b'Long Square'	-50.0	10.3
+2024-12-20 19:36:36,364 - root - INFO - 34	b'Long Square'	-30.0	6.4
+2024-12-20 19:36:36,390 - root - INFO - 35	b'Long Square'	-10.0	2.8
+2024-12-20 19:36:36,408 - root - INFO - 36	b'Long Square'	10.0	2.7
+2024-12-20 19:36:36,421 - root - INFO - 37	b'Long Square'	30.0	7.7
+2024-12-20 19:36:36,442 - root - INFO - 38	b'Long Square'	50.0	13.2
+2024-12-20 19:36:36,463 - root - INFO - 39	b'Long Square'	70.0	22.5
+2024-12-20 19:36:37,205 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_39.png
+2024-12-20 19:36:37,268 - root - INFO - 4	b'Ramp'	800.0	109.0
+2024-12-20 19:36:38,286 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_4.png
+2024-12-20 19:36:38,340 - root - INFO - 40	b'Long Square'	90.0	114.2
+2024-12-20 19:36:40,202 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_40.png
+2024-12-20 19:36:40,250 - root - INFO - 41	b'Long Square'	110.0	113.5
+2024-12-20 19:36:41,975 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_41.png
+2024-12-20 19:36:42,071 - root - INFO - 42	b'Long Square'	130.0	112.9
+2024-12-20 19:36:43,713 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_42.png
+2024-12-20 19:36:43,774 - root - INFO - 43	b'Long Square'	150.0	112.6
+2024-12-20 19:36:45,481 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_43.png
+2024-12-20 19:36:45,533 - root - INFO - 44	b'Long Square'	170.0	112.8
+2024-12-20 19:36:47,214 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_44.png
+2024-12-20 19:36:47,284 - root - INFO - 45	b'Long Square'	190.0	113.7
+2024-12-20 19:36:49,510 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_45.png
+2024-12-20 19:36:49,563 - root - INFO - 46	b'Long Square'	210.0	114.6
+2024-12-20 19:36:51,473 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_46.png
+2024-12-20 19:36:51,511 - root - INFO - 47	b'Long Square'	230.0	114.3
+2024-12-20 19:36:52,884 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_47.png
+2024-12-20 19:36:52,954 - root - INFO - 49	b'Long Square'	90.0	112.2
+2024-12-20 19:36:54,327 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_49.png
+2024-12-20 19:36:54,431 - root - INFO - 5	b'Ramp'	800.0	109.8
+2024-12-20 19:36:56,686 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_5.png
+2024-12-20 19:36:56,724 - root - INFO - 50	b'Long Square'	90.0	113.8
+2024-12-20 19:36:57,993 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_50.png
+2024-12-20 19:36:58,025 - root - INFO - 51	b'Long Square'	90.0	113.4
+2024-12-20 19:36:59,075 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_51.png
+2024-12-20 19:36:59,147 - root - INFO - 52	b'Long Square'	90.0	113.1
+2024-12-20 19:37:00,301 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_52.png
+2024-12-20 19:37:00,414 - root - INFO - 53	b'Noise 1'	208.8	112.8
+2024-12-20 19:37:01,652 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_53.png
+2024-12-20 19:37:01,724 - root - INFO - 54	b'Noise 2'	212.5	112.9
+2024-12-20 19:37:03,994 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_54.png
+2024-12-20 19:37:04,170 - root - INFO - 55	b'Noise 1'	208.8	113.2
+2024-12-20 19:37:06,063 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_55.png
+2024-12-20 19:37:06,318 - root - INFO - 56	b'Noise 2'	212.5	112.1
+2024-12-20 19:37:09,978 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_56.png
+2024-12-20 19:37:10,120 - root - INFO - 57	b'Noise 1'	208.8	112.5
+2024-12-20 19:37:11,186 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_57.png
+2024-12-20 19:37:11,328 - root - INFO - 58	b'Noise 2'	212.5	111.9
+2024-12-20 19:37:12,507 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_58.png
+2024-12-20 19:37:12,689 - root - INFO - 59	b'Noise 1'	208.8	112.5
+2024-12-20 19:37:14,783 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_59.png
+2024-12-20 19:37:14,911 - root - INFO - 6	b'Ramp'	800.0	110.3
+2024-12-20 19:37:16,168 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_6.png
+2024-12-20 19:37:16,323 - root - INFO - 60	b'Noise 2'	212.5	112.1
+2024-12-20 19:37:18,187 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_60.png
+2024-12-20 19:37:18,339 - root - INFO - 62	b'Square - 0.5ms Subthreshold'	-200.0	3.5
+2024-12-20 19:37:18,406 - root - INFO - 63	b'Square - 0.5ms Subthreshold'	-200.0	3.3
+2024-12-20 19:37:18,505 - root - INFO - 65	b'Square - 2s Suprathreshold'	100.0	111.2
+2024-12-20 19:37:22,359 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_65.png
+2024-12-20 19:37:22,674 - root - INFO - 66	b'Square - 2s Suprathreshold'	100.0	110.9
+2024-12-20 19:37:27,460 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_66.png
+2024-12-20 19:37:29,596 - root - INFO - 67	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:37:33,063 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_67.png
+2024-12-20 19:37:33,192 - root - INFO - 68	b'Square - 2s Suprathreshold'	100.0	110.6
+2024-12-20 19:37:34,680 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_68.png
+2024-12-20 19:37:34,833 - root - INFO - 69	b'Square - 2s Suprathreshold'	140.0	110.6
+2024-12-20 19:37:36,388 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_69.png
+2024-12-20 19:37:37,333 - root - INFO - 7	b'Short Square'	100.0	4.3
+2024-12-20 19:37:37,519 - root - INFO - 70	b'Square - 2s Suprathreshold'	140.0	110.3
+2024-12-20 19:37:38,611 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_70.png
+2024-12-20 19:37:38,732 - root - INFO - 71	b'Square - 2s Suprathreshold'	140.0	109.7
+2024-12-20 19:37:45,736 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_71.png
+2024-12-20 19:37:45,767 - root - INFO - 72	b'Square - 2s Suprathreshold'	140.0	109.3
+2024-12-20 19:37:46,834 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_72.png
+2024-12-20 19:37:46,890 - root - INFO - 73	b'Square - 2s Suprathreshold'	180.0	110.7
+2024-12-20 19:37:48,015 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_73.png
+2024-12-20 19:37:48,075 - root - INFO - 74	b'Square - 2s Suprathreshold'	180.0	109.9
+2024-12-20 19:37:49,047 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_74.png
+2024-12-20 19:37:49,076 - root - INFO - 75	b'Square - 2s Suprathreshold'	180.0	109.8
+2024-12-20 19:37:50,123 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_75.png
+2024-12-20 19:37:50,201 - root - INFO - 76	b'Square - 2s Suprathreshold'	180.0	110.2
+2024-12-20 19:37:51,645 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_76.png
+2024-12-20 19:37:51,767 - root - INFO - 77	b'Ramp to Rheobase'	338.8	113.2
+2024-12-20 19:37:54,585 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_77.png
+2024-12-20 19:37:54,749 - root - INFO - 78	b'Ramp to Rheobase'	338.8	113.3
+2024-12-20 19:37:58,486 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_78.png
+2024-12-20 19:37:58,870 - root - INFO - 79	b'Ramp to Rheobase'	338.8	112.3
+2024-12-20 19:38:01,370 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_79.png
+2024-12-20 19:38:01,501 - root - INFO - 8	b'Short Square'	200.0	7.8
+2024-12-20 19:38:01,524 - root - INFO - 80	b'Short Square - Triple'	590.0	16.7
+2024-12-20 19:38:01,542 - root - INFO - 81	b'Short Square - Triple'	600.0	16.8
+2024-12-20 19:38:01,559 - root - INFO - 82	b'Short Square - Triple'	610.0	16.8
+2024-12-20 19:38:01,579 - root - INFO - 83	b'Short Square - Triple'	630.0	17.5
+2024-12-20 19:38:01,608 - root - INFO - 84	b'Short Square - Triple'	650.0	18.1
+2024-12-20 19:38:01,633 - root - INFO - 85	b'Short Square - Triple'	700.0	19.3
+2024-12-20 19:38:01,666 - root - INFO - 86	b'Short Square - Triple'	750.0	21.3
+2024-12-20 19:38:06,078 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_86.png
+2024-12-20 19:38:06,406 - root - INFO - 87	b'Short Square - Triple'	800.0	23.0
+2024-12-20 19:38:08,385 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_87.png
+2024-12-20 19:38:08,629 - root - INFO - 88	b'Short Square - Triple'	850.0	110.2
+2024-12-20 19:38:10,156 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_88.png
+2024-12-20 19:38:10,285 - root - INFO - 9	b'Short Square'	300.0	11.8
+2024-12-20 19:38:10,418 - root - INFO - 90	b'Short Square - Triple'	830.0	108.7
+2024-12-20 19:38:20,617 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_90.png
+2024-12-20 19:38:20,667 - root - INFO - 91	b'Short Square - Triple'	820.0	109.1
+2024-12-20 19:38:21,623 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_91.png
+2024-12-20 19:38:21,693 - root - INFO - 92	b'Short Square - Triple'	830.0	109.0
+2024-12-20 19:38:22,542 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_92.png
+2024-12-20 19:38:22,597 - root - INFO - 93	b'Short Square - Triple'	830.0	109.3
+2024-12-20 19:38:23,442 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_93.png
+2024-12-20 19:38:23,470 - root - INFO - 94	b'Short Square - Triple'	830.0	109.5
+2024-12-20 19:38:24,409 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_94.png
+2024-12-20 19:38:24,451 - root - INFO - 95	b'Short Square - Triple'	830.0	107.7
+2024-12-20 19:38:25,193 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_95.png
+2024-12-20 19:38:25,215 - root - INFO - 96	b'Short Square - Triple'	830.0	109.2
+2024-12-20 19:38:25,943 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_96.png
+2024-12-20 19:38:25,962 - root - INFO - 97	b'Short Square - Triple'	830.0	109.7
+2024-12-20 19:38:26,650 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_97.png
+2024-12-20 19:38:26,669 - root - INFO - 98	b'Short Square - Triple'	830.0	109.8
+2024-12-20 19:38:27,564 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_98.png
+2024-12-20 19:38:27,649 - root - INFO - 99	b'Short Square - Triple'	830.0	109.4
+2024-12-20 19:38:28,800 - visualizers.visualizer - INFO - Saved plot to neuron_plots\sweep_99.png
+2024-12-20 19:38:28,814 - root - INFO - 
+Creating summary plots for 79 active sweeps
+2024-12-20 19:38:29,477 - visualizers.visualizer - INFO - Saved plot to neuron_plots\stimulus_comparison.png
+2024-12-20 19:38:30,492 - visualizers.visualizer - INFO - Saved plot to neuron_plots\response_heatmap.png
+2024-12-20 19:38:30,508 - root - INFO - 
+All visualizations have been saved to the 'neuron_plots' directory

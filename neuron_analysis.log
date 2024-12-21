@@ -1,0 +1,295 @@
+2024-12-20 03:44:34,245 - INFO - Successfully initialized Allen SDK cache
+2024-12-20 03:44:34,245 - INFO - Analyzing cell 464212183
+2024-12-20 03:44:34,245 - ERROR - Error analyzing neuron 464212183: 'CellTypesCache' object has no attribute 'get_cell'
+2024-12-20 03:44:34,245 - ERROR - Analysis pipeline failed: 'CellTypesCache' object has no attribute 'get_cell'
+2024-12-20 03:44:34,245 - ERROR - Unexpected error: 'CellTypesCache' object has no attribute 'get_cell'
+2024-12-20 16:11:25,626 - INFO - Successfully initialized Allen SDK cache
+2024-12-20 16:11:25,631 - INFO - Analyzing cell 464212183
+2024-12-20 16:11:25,638 - ERROR - Error analyzing neuron 464212183: 'CellTypesCache' object has no attribute 'get_cell_metadata'
+2024-12-20 16:11:25,640 - ERROR - Analysis pipeline failed: 'CellTypesCache' object has no attribute 'get_cell_metadata'
+2024-12-20 16:11:25,642 - ERROR - Unexpected error: 'CellTypesCache' object has no attribute 'get_cell_metadata'
+2024-12-20 17:16:28,047 - INFO - Successfully initialized Allen SDK cache
+2024-12-20 17:16:28,047 - INFO - Analyzing cell 464212183
+2024-12-20 17:16:28,142 - INFO - Initialized ActionPotentialAnalyzer with sampling rate 200000.0 Hz
+2024-12-20 17:16:30,082 - ERROR - Error analyzing neuron 464212183: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-20 17:16:30,083 - ERROR - Analysis pipeline failed: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-20 17:16:30,083 - ERROR - Unexpected error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-20 17:29:13,352 - INFO - Successfully initialized Allen SDK cache
+2024-12-20 17:29:13,352 - INFO - Analyzing cell 464212183
+2024-12-20 17:29:13,398 - INFO - Initialized ActionPotentialAnalyzer with sampling rate 200000.0 Hz
+2024-12-20 17:29:13,867 - ERROR - Error analyzing neuron 464212183: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-20 17:29:13,869 - ERROR - Analysis pipeline failed: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-20 17:29:13,869 - ERROR - Unexpected error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-20 18:11:15,998 - root - INFO - Starting action potential analysis
+2024-12-20 18:19:11,580 - root - INFO - Starting action potential analysis
+2024-12-20 18:25:10,010 - root - INFO - Starting neuronal analysis
+2024-12-20 18:25:10,011 - root - INFO - Loading neural recording data
+2024-12-20 18:25:10,046 - allensdk.api.api - INFO - Downloading URL: http://api.brain-map.org/api/v2/data/query.json?q=model::ApiCellTypesSpecimenDetail,rma::options[num_rows$eq'all']
+2024-12-20 18:25:13,923 - allensdk.api.api - INFO - Downloading URL: http://api.brain-map.org/api/v2/data/query.json?q=model::Specimen,rma::criteria,[id$eq525011903],ephys_result(well_known_files(well_known_file_type[name$eqNWBDownload])),rma::include,ephys_result(well_known_files(well_known_file_type)),rma::options[num_rows$eq'all']
+2024-12-20 18:25:13,998 - allensdk.api.api.retrieve_file_over_http - INFO - Downloading URL: http://api.brain-map.org/api/v2/well_known_file_download/618211597
+2024-12-20 18:25:42,514 - root - INFO - Creating analyzer with 50000.0 Hz sampling rate
+2024-12-20 18:25:42,520 - analyzers.action_potential - INFO - Initialized ActionPotentialAnalyzer with sampling rate 50000.0 Hz
+2024-12-20 18:25:42,584 - root - INFO - Detected 1534 action potentials
+2024-12-20 18:25:42,602 - root - INFO - Spike 1 - Amplitude: 0.00 mV
+2024-12-20 18:25:45,406 - root - INFO - Spike 2 - Amplitude: 0.00 mV
+2024-12-20 18:25:45,682 - root - INFO - Spike 3 - Amplitude: 0.00 mV
+2024-12-20 18:25:45,916 - root - INFO - Spike 4 - Amplitude: 0.00 mV
+2024-12-20 18:25:46,145 - root - INFO - Spike 5 - Amplitude: 0.00 mV
+2024-12-20 18:25:46,403 - root - INFO - Spike 6 - Amplitude: 0.00 mV
+2024-12-20 18:25:46,666 - root - INFO - Spike 7 - Amplitude: 0.00 mV
+2024-12-20 18:25:46,878 - root - INFO - Spike 8 - Amplitude: 0.00 mV
+2024-12-20 18:25:47,228 - root - INFO - Spike 9 - Amplitude: 0.00 mV
+2024-12-20 18:25:47,469 - root - INFO - Spike 10 - Amplitude: 0.00 mV
+2024-12-20 18:25:47,710 - root - INFO - Spike 11 - Amplitude: 0.00 mV
+2024-12-20 18:25:47,920 - root - INFO - Spike 12 - Amplitude: 0.00 mV
+2024-12-20 18:25:48,122 - root - INFO - Spike 13 - Amplitude: 0.00 mV
+2024-12-20 18:25:49,841 - root - INFO - Spike 14 - Amplitude: 0.00 mV
+2024-12-20 18:25:50,020 - root - INFO - Spike 15 - Amplitude: 0.00 mV
+2024-12-20 18:25:50,192 - root - INFO - Spike 16 - Amplitude: 0.00 mV
+2024-12-20 18:25:50,381 - root - INFO - Spike 17 - Amplitude: 0.00 mV
+2024-12-20 18:25:50,548 - root - INFO - Spike 18 - Amplitude: 0.00 mV
+2024-12-20 18:25:50,722 - root - INFO - Spike 19 - Amplitude: 0.00 mV
+2024-12-20 18:25:50,900 - root - INFO - Spike 20 - Amplitude: 0.00 mV
+2024-12-20 18:25:51,092 - root - INFO - Spike 21 - Amplitude: 0.00 mV
+2024-12-20 18:25:51,283 - root - INFO - Spike 22 - Amplitude: 0.00 mV
+2024-12-20 18:25:51,435 - root - INFO - Spike 23 - Amplitude: 0.00 mV
+2024-12-20 18:25:51,589 - root - INFO - Spike 24 - Amplitude: 0.00 mV
+2024-12-20 18:25:51,796 - root - INFO - Spike 25 - Amplitude: 0.00 mV
+2024-12-20 18:25:51,991 - root - INFO - Spike 26 - Amplitude: 0.00 mV
+2024-12-20 18:25:52,196 - root - INFO - Spike 27 - Amplitude: 0.00 mV
+2024-12-20 18:25:52,401 - root - INFO - Spike 28 - Amplitude: 0.00 mV
+2024-12-20 18:25:52,655 - root - INFO - Spike 29 - Amplitude: 0.00 mV
+2024-12-20 18:25:52,876 - root - INFO - Spike 30 - Amplitude: 0.00 mV
+2024-12-20 18:25:53,091 - root - INFO - Spike 31 - Amplitude: 0.00 mV
+2024-12-20 18:25:53,299 - root - INFO - Spike 32 - Amplitude: 0.00 mV
+2024-12-20 18:25:53,458 - root - INFO - Spike 33 - Amplitude: 0.00 mV
+2024-12-20 18:25:53,616 - root - INFO - Spike 34 - Amplitude: 0.00 mV
+2024-12-20 18:25:53,816 - root - INFO - Spike 35 - Amplitude: 0.00 mV
+2024-12-20 18:25:54,005 - root - INFO - Spike 36 - Amplitude: 0.00 mV
+2024-12-20 18:25:54,198 - root - INFO - Spike 37 - Amplitude: 0.00 mV
+2024-12-20 18:25:54,369 - root - INFO - Spike 38 - Amplitude: 0.00 mV
+2024-12-20 18:25:54,586 - root - INFO - Spike 39 - Amplitude: 0.00 mV
+2024-12-20 18:25:54,772 - root - INFO - Spike 40 - Amplitude: 0.00 mV
+2024-12-20 18:25:54,967 - root - INFO - Spike 41 - Amplitude: 0.00 mV
+2024-12-20 18:25:55,135 - root - INFO - Spike 42 - Amplitude: 0.00 mV
+2024-12-20 18:25:55,290 - root - INFO - Spike 43 - Amplitude: 0.00 mV
+2024-12-20 18:25:55,440 - root - INFO - Spike 44 - Amplitude: 0.00 mV
+2024-12-20 18:25:55,595 - root - INFO - Spike 45 - Amplitude: 0.00 mV
+2024-12-20 18:25:55,783 - root - INFO - Spike 46 - Amplitude: 0.00 mV
+2024-12-20 18:25:55,974 - root - INFO - Spike 47 - Amplitude: 0.00 mV
+2024-12-20 18:25:56,194 - root - INFO - Spike 48 - Amplitude: 0.00 mV
+2024-12-20 18:25:56,428 - root - INFO - Spike 49 - Amplitude: 0.00 mV
+2024-12-20 18:25:56,630 - root - INFO - Spike 50 - Amplitude: 0.00 mV
+2024-12-20 18:25:56,809 - root - INFO - Spike 51 - Amplitude: 0.00 mV
+2024-12-20 18:25:57,052 - root - INFO - Spike 52 - Amplitude: 0.00 mV
+2024-12-20 18:25:57,382 - root - INFO - Spike 53 - Amplitude: 0.00 mV
+2024-12-20 18:25:57,584 - root - INFO - Spike 54 - Amplitude: 0.00 mV
+2024-12-20 18:25:57,819 - root - INFO - Spike 55 - Amplitude: 0.00 mV
+2024-12-20 18:25:58,020 - root - INFO - Spike 56 - Amplitude: 0.00 mV
+2024-12-20 18:25:58,255 - root - INFO - Spike 57 - Amplitude: 0.00 mV
+2024-12-20 18:25:58,446 - root - INFO - Spike 58 - Amplitude: 0.00 mV
+2024-12-20 18:25:58,665 - root - INFO - Spike 59 - Amplitude: 0.00 mV
+2024-12-20 18:25:58,873 - root - INFO - Spike 60 - Amplitude: 0.00 mV
+2024-12-20 18:25:59,053 - root - INFO - Spike 61 - Amplitude: 0.00 mV
+2024-12-20 18:25:59,208 - root - INFO - Spike 62 - Amplitude: 0.00 mV
+2024-12-20 18:25:59,378 - root - INFO - Spike 63 - Amplitude: 0.00 mV
+2024-12-20 18:25:59,545 - root - INFO - Spike 64 - Amplitude: 0.00 mV
+2024-12-20 18:25:59,699 - root - INFO - Spike 65 - Amplitude: 0.00 mV
+2024-12-20 18:25:59,889 - root - INFO - Spike 66 - Amplitude: 0.00 mV
+2024-12-20 18:26:00,073 - root - INFO - Spike 67 - Amplitude: 0.00 mV
+2024-12-20 18:26:00,254 - root - INFO - Spike 68 - Amplitude: 0.00 mV
+2024-12-20 18:26:00,406 - root - INFO - Spike 69 - Amplitude: 0.00 mV
+2024-12-20 18:26:00,594 - root - INFO - Spike 70 - Amplitude: 0.00 mV
+2024-12-20 18:26:00,805 - root - INFO - Spike 71 - Amplitude: 0.00 mV
+2024-12-20 18:26:00,996 - root - INFO - Spike 72 - Amplitude: 0.00 mV
+2024-12-20 18:26:01,209 - root - INFO - Spike 73 - Amplitude: 0.00 mV
+2024-12-20 18:26:01,418 - root - INFO - Spike 74 - Amplitude: 0.00 mV
+2024-12-20 18:26:01,638 - root - INFO - Spike 75 - Amplitude: 0.00 mV
+2024-12-20 18:26:01,833 - root - INFO - Spike 76 - Amplitude: 0.00 mV
+2024-12-20 18:26:02,024 - root - INFO - Spike 77 - Amplitude: 0.00 mV
+2024-12-20 18:26:02,228 - root - INFO - Spike 78 - Amplitude: 0.00 mV
+2024-12-20 18:26:02,446 - root - INFO - Spike 79 - Amplitude: 0.00 mV
+2024-12-20 18:26:02,678 - root - INFO - Spike 80 - Amplitude: 0.00 mV
+2024-12-20 18:26:02,891 - root - INFO - Spike 81 - Amplitude: 0.00 mV
+2024-12-20 18:26:03,084 - root - INFO - Spike 82 - Amplitude: 0.00 mV
+2024-12-20 18:26:03,288 - root - INFO - Spike 83 - Amplitude: 0.00 mV
+2024-12-20 18:26:03,504 - root - INFO - Spike 84 - Amplitude: 0.00 mV
+2024-12-20 18:26:03,701 - root - INFO - Spike 85 - Amplitude: 0.00 mV
+2024-12-20 18:26:03,909 - root - INFO - Spike 86 - Amplitude: 0.00 mV
+2024-12-20 18:26:04,137 - root - INFO - Spike 87 - Amplitude: 0.00 mV
+2024-12-20 18:26:04,363 - root - INFO - Spike 88 - Amplitude: 0.00 mV
+2024-12-20 18:26:04,599 - root - INFO - Spike 89 - Amplitude: 0.00 mV
+2024-12-20 18:26:04,819 - root - INFO - Spike 90 - Amplitude: 0.00 mV
+2024-12-20 18:26:05,047 - root - INFO - Spike 91 - Amplitude: 0.00 mV
+2024-12-20 18:26:05,264 - root - INFO - Spike 92 - Amplitude: 0.00 mV
+2024-12-20 18:26:05,635 - root - INFO - Spike 93 - Amplitude: 0.00 mV
+2024-12-20 18:26:05,817 - root - INFO - Spike 94 - Amplitude: 0.00 mV
+2024-12-20 18:26:06,013 - root - INFO - Spike 95 - Amplitude: 0.00 mV
+2024-12-20 18:26:06,203 - root - INFO - Spike 96 - Amplitude: 0.00 mV
+2024-12-20 18:26:06,416 - root - INFO - Spike 97 - Amplitude: 0.00 mV
+2024-12-20 18:26:06,650 - root - INFO - Spike 98 - Amplitude: 0.00 mV
+2024-12-20 18:26:06,863 - root - INFO - Spike 99 - Amplitude: 0.00 mV
+2024-12-20 18:26:07,076 - root - INFO - Spike 100 - Amplitude: 0.00 mV
+2024-12-20 18:26:07,259 - root - INFO - Spike 101 - Amplitude: 0.00 mV
+2024-12-20 18:26:07,488 - root - INFO - Spike 102 - Amplitude: 0.00 mV
+2024-12-20 18:26:07,657 - root - INFO - Spike 103 - Amplitude: 0.00 mV
+2024-12-20 18:26:07,873 - root - INFO - Spike 104 - Amplitude: 0.00 mV
+2024-12-20 18:26:08,053 - root - INFO - Spike 105 - Amplitude: 0.00 mV
+2024-12-20 18:26:08,245 - root - INFO - Spike 106 - Amplitude: 0.00 mV
+2024-12-20 18:26:08,460 - root - INFO - Spike 107 - Amplitude: 0.00 mV
+2024-12-20 18:26:08,662 - root - INFO - Spike 108 - Amplitude: 0.00 mV
+2024-12-20 18:26:08,874 - root - INFO - Spike 109 - Amplitude: 0.00 mV
+2024-12-20 18:26:09,070 - root - INFO - Spike 110 - Amplitude: 0.00 mV
+2024-12-20 18:26:09,287 - root - INFO - Spike 111 - Amplitude: 0.00 mV
+2024-12-20 18:26:09,502 - root - INFO - Spike 112 - Amplitude: 0.00 mV
+2024-12-20 18:26:09,699 - root - INFO - Spike 113 - Amplitude: 0.00 mV
+2024-12-20 18:26:09,917 - root - INFO - Spike 114 - Amplitude: 0.00 mV
+2024-12-20 18:26:10,111 - root - INFO - Spike 115 - Amplitude: 0.00 mV
+2024-12-20 18:26:10,323 - root - INFO - Spike 116 - Amplitude: 0.00 mV
+2024-12-20 18:26:10,521 - root - INFO - Spike 117 - Amplitude: 0.00 mV
+2024-12-20 18:26:10,728 - root - INFO - Spike 118 - Amplitude: 0.00 mV
+2024-12-20 18:26:10,918 - root - INFO - Spike 119 - Amplitude: 0.00 mV
+2024-12-20 18:26:11,102 - root - INFO - Spike 120 - Amplitude: 0.00 mV
+2024-12-20 18:26:11,291 - root - INFO - Spike 121 - Amplitude: 0.00 mV
+2024-12-20 18:26:11,486 - root - INFO - Spike 122 - Amplitude: 0.00 mV
+2024-12-20 18:26:11,683 - root - INFO - Spike 123 - Amplitude: 0.00 mV
+2024-12-20 18:26:11,870 - root - INFO - Spike 124 - Amplitude: 0.00 mV
+2024-12-20 18:26:12,048 - root - INFO - Spike 125 - Amplitude: 0.00 mV
+2024-12-20 18:26:12,810 - root - INFO - Spike 126 - Amplitude: 0.00 mV
+2024-12-20 18:26:12,999 - root - INFO - Spike 127 - Amplitude: 0.00 mV
+2024-12-20 18:26:13,414 - root - INFO - Spike 128 - Amplitude: 0.00 mV
+2024-12-20 18:26:13,626 - root - INFO - Spike 129 - Amplitude: 0.00 mV
+2024-12-20 18:26:13,816 - root - INFO - Spike 130 - Amplitude: 0.00 mV
+2024-12-20 18:26:14,017 - root - INFO - Spike 131 - Amplitude: 0.00 mV
+2024-12-20 18:26:14,210 - root - INFO - Spike 132 - Amplitude: 0.00 mV
+2024-12-20 18:26:14,427 - root - INFO - Spike 133 - Amplitude: 0.00 mV
+2024-12-20 18:26:14,646 - root - INFO - Spike 134 - Amplitude: 0.00 mV
+2024-12-20 18:26:14,848 - root - INFO - Spike 135 - Amplitude: 0.00 mV
+2024-12-20 18:26:15,016 - root - INFO - Spike 136 - Amplitude: 0.00 mV
+2024-12-20 18:26:15,198 - root - INFO - Spike 137 - Amplitude: 0.00 mV
+2024-12-20 18:26:15,400 - root - INFO - Spike 138 - Amplitude: 0.00 mV
+2024-12-20 18:26:15,608 - root - INFO - Spike 139 - Amplitude: 0.00 mV
+2024-12-20 18:26:15,972 - root - INFO - Spike 140 - Amplitude: 0.00 mV
+2024-12-20 18:26:16,160 - root - INFO - Spike 141 - Amplitude: 0.00 mV
+2024-12-20 18:26:16,352 - root - INFO - Spike 142 - Amplitude: 0.00 mV
+2024-12-20 18:26:16,562 - root - INFO - Spike 143 - Amplitude: 0.00 mV
+2024-12-20 18:26:16,719 - root - INFO - Spike 144 - Amplitude: 0.00 mV
+2024-12-20 18:26:16,912 - root - INFO - Spike 145 - Amplitude: 0.00 mV
+2024-12-20 18:26:17,109 - root - INFO - Spike 146 - Amplitude: 0.00 mV
+2024-12-20 18:26:17,303 - root - INFO - Spike 147 - Amplitude: 0.00 mV
+2024-12-20 18:26:17,506 - root - INFO - Spike 148 - Amplitude: 0.00 mV
+2024-12-20 18:26:17,700 - root - INFO - Spike 149 - Amplitude: 0.00 mV
+2024-12-20 18:26:18,020 - root - INFO - Spike 150 - Amplitude: 0.00 mV
+2024-12-20 18:26:18,225 - root - INFO - Spike 151 - Amplitude: 0.00 mV
+2024-12-20 18:26:18,396 - root - INFO - Spike 152 - Amplitude: 0.00 mV
+2024-12-20 18:26:18,883 - root - INFO - Spike 153 - Amplitude: 0.00 mV
+2024-12-20 18:26:19,112 - root - INFO - Spike 154 - Amplitude: 0.00 mV
+2024-12-20 18:26:19,503 - root - INFO - Spike 155 - Amplitude: 0.00 mV
+2024-12-20 18:26:20,221 - root - INFO - Spike 156 - Amplitude: 0.00 mV
+2024-12-20 18:26:20,431 - root - INFO - Spike 157 - Amplitude: 0.00 mV
+2024-12-20 18:26:20,873 - root - INFO - Spike 158 - Amplitude: 0.00 mV
+2024-12-20 18:26:21,286 - root - INFO - Spike 159 - Amplitude: 0.00 mV
+2024-12-20 18:26:21,578 - root - INFO - Spike 160 - Amplitude: 0.00 mV
+2024-12-20 18:26:22,023 - root - INFO - Spike 161 - Amplitude: 0.00 mV
+2024-12-20 18:26:22,601 - root - INFO - Spike 162 - Amplitude: 0.00 mV
+2024-12-20 18:26:22,831 - root - INFO - Spike 163 - Amplitude: 0.00 mV
+2024-12-20 18:26:23,357 - root - INFO - Spike 164 - Amplitude: 0.00 mV
+2024-12-20 18:26:23,545 - root - INFO - Spike 165 - Amplitude: 0.00 mV
+2024-12-20 18:26:23,722 - root - INFO - Spike 166 - Amplitude: 0.00 mV
+2024-12-20 18:26:24,026 - root - INFO - Spike 167 - Amplitude: 0.00 mV
+2024-12-20 18:26:24,226 - root - INFO - Spike 168 - Amplitude: 0.00 mV
+2024-12-20 18:26:24,490 - root - INFO - Spike 169 - Amplitude: 0.00 mV
+2024-12-20 18:26:24,671 - root - INFO - Spike 170 - Amplitude: 0.00 mV
+2024-12-20 18:26:24,910 - root - INFO - Spike 171 - Amplitude: 0.00 mV
+2024-12-20 18:26:25,178 - root - INFO - Spike 172 - Amplitude: 0.00 mV
+2024-12-20 18:26:25,383 - root - INFO - Spike 173 - Amplitude: 0.00 mV
+2024-12-20 18:26:25,639 - root - INFO - Spike 174 - Amplitude: 0.00 mV
+2024-12-20 18:26:25,836 - root - INFO - Spike 175 - Amplitude: 0.00 mV
+2024-12-20 18:26:26,087 - root - INFO - Spike 176 - Amplitude: 0.00 mV
+2024-12-20 18:26:26,297 - root - INFO - Spike 177 - Amplitude: 0.00 mV
+2024-12-20 18:26:26,545 - root - INFO - Spike 178 - Amplitude: 0.00 mV
+2024-12-20 18:26:26,741 - root - INFO - Spike 179 - Amplitude: 0.00 mV
+2024-12-20 18:26:26,988 - root - INFO - Spike 180 - Amplitude: 0.00 mV
+2024-12-20 18:26:27,199 - root - INFO - Spike 181 - Amplitude: 0.00 mV
+2024-12-20 18:26:27,400 - root - INFO - Spike 182 - Amplitude: 0.00 mV
+2024-12-20 18:26:27,622 - root - INFO - Spike 183 - Amplitude: 0.00 mV
+2024-12-20 18:26:27,855 - root - INFO - Spike 184 - Amplitude: 0.00 mV
+2024-12-20 18:26:28,075 - root - INFO - Spike 185 - Amplitude: 0.00 mV
+2024-12-20 18:26:28,339 - root - INFO - Spike 186 - Amplitude: 0.00 mV
+2024-12-20 18:26:28,573 - root - INFO - Spike 187 - Amplitude: 0.00 mV
+2024-12-20 18:26:28,779 - root - INFO - Spike 188 - Amplitude: 0.00 mV
+2024-12-20 18:26:28,990 - root - INFO - Spike 189 - Amplitude: 0.00 mV
+2024-12-20 18:26:29,203 - root - INFO - Spike 190 - Amplitude: 0.00 mV
+2024-12-20 18:26:29,410 - root - INFO - Spike 191 - Amplitude: 0.00 mV
+2024-12-20 18:26:29,638 - root - INFO - Spike 192 - Amplitude: 0.00 mV
+2024-12-20 18:26:29,891 - root - INFO - Spike 193 - Amplitude: 0.00 mV
+2024-12-20 18:26:30,150 - root - INFO - Spike 194 - Amplitude: 0.00 mV
+2024-12-20 18:26:30,371 - root - INFO - Spike 195 - Amplitude: 0.00 mV
+2024-12-20 18:26:30,589 - root - INFO - Spike 196 - Amplitude: 0.00 mV
+2024-12-20 18:26:31,006 - root - INFO - Spike 197 - Amplitude: 0.00 mV
+2024-12-20 18:26:31,242 - root - INFO - Spike 198 - Amplitude: 0.00 mV
+2024-12-20 18:26:31,454 - root - INFO - Spike 199 - Amplitude: 0.00 mV
+2024-12-20 18:26:31,656 - root - INFO - Spike 200 - Amplitude: 0.00 mV
+2024-12-20 18:26:31,881 - root - INFO - Spike 201 - Amplitude: 0.00 mV
+2024-12-20 18:26:32,065 - root - INFO - Spike 202 - Amplitude: 0.00 mV
+2024-12-20 18:26:32,292 - root - INFO - Spike 203 - Amplitude: 0.00 mV
+2024-12-20 18:26:32,480 - root - INFO - Spike 204 - Amplitude: 0.00 mV
+2024-12-20 18:26:32,680 - root - INFO - Spike 205 - Amplitude: 0.00 mV
+2024-12-20 18:26:33,027 - root - INFO - Spike 206 - Amplitude: 0.00 mV
+2024-12-20 18:26:33,203 - root - INFO - Spike 207 - Amplitude: 0.00 mV
+2024-12-20 18:26:33,428 - root - INFO - Spike 208 - Amplitude: 0.00 mV
+2024-12-20 18:26:33,616 - root - INFO - Spike 209 - Amplitude: 0.00 mV
+2024-12-20 18:26:33,819 - root - INFO - Spike 210 - Amplitude: 0.00 mV
+2024-12-20 18:26:34,052 - root - INFO - Spike 211 - Amplitude: 0.00 mV
+2024-12-20 18:26:34,264 - root - INFO - Spike 212 - Amplitude: 0.00 mV
+2024-12-20 18:26:34,472 - root - INFO - Spike 213 - Amplitude: 0.00 mV
+2024-12-20 18:26:34,695 - root - INFO - Spike 214 - Amplitude: 0.00 mV
+2024-12-20 18:26:34,886 - root - INFO - Spike 215 - Amplitude: 0.00 mV
+2024-12-20 18:26:35,073 - root - INFO - Spike 216 - Amplitude: 0.00 mV
+2024-12-20 18:26:35,322 - root - INFO - Spike 217 - Amplitude: 0.00 mV
+2024-12-20 18:26:35,504 - root - INFO - Spike 218 - Amplitude: 0.00 mV
+2024-12-20 18:26:35,697 - root - INFO - Spike 219 - Amplitude: 0.00 mV
+2024-12-20 18:26:35,905 - root - INFO - Spike 220 - Amplitude: 0.00 mV
+2024-12-20 18:26:36,171 - root - INFO - Spike 221 - Amplitude: 0.00 mV
+2024-12-20 18:26:36,389 - root - INFO - Spike 222 - Amplitude: 0.00 mV
+2024-12-20 18:26:36,603 - root - INFO - Spike 223 - Amplitude: 0.00 mV
+2024-12-20 18:26:36,808 - root - INFO - Spike 224 - Amplitude: 0.00 mV
+2024-12-20 18:26:37,035 - root - INFO - Spike 225 - Amplitude: 0.00 mV
+2024-12-20 18:26:37,279 - root - INFO - Spike 226 - Amplitude: 0.00 mV
+2024-12-20 18:26:37,498 - root - INFO - Spike 227 - Amplitude: 0.00 mV
+2024-12-20 18:26:37,725 - root - INFO - Spike 228 - Amplitude: 0.00 mV
+2024-12-20 18:26:37,955 - root - INFO - Spike 229 - Amplitude: 0.00 mV
+2024-12-20 18:26:38,181 - root - INFO - Spike 230 - Amplitude: 0.00 mV
+2024-12-20 18:26:38,411 - root - INFO - Spike 231 - Amplitude: 0.00 mV
+2024-12-20 18:26:38,658 - root - INFO - Spike 232 - Amplitude: 0.00 mV
+2024-12-20 18:26:38,871 - root - INFO - Spike 233 - Amplitude: 0.00 mV
+2024-12-20 18:26:39,073 - root - INFO - Spike 234 - Amplitude: 0.00 mV
+2024-12-20 18:26:39,282 - root - INFO - Spike 235 - Amplitude: 0.00 mV
+2024-12-20 18:26:39,506 - root - INFO - Spike 236 - Amplitude: 0.00 mV
+2024-12-20 18:26:39,743 - root - INFO - Spike 237 - Amplitude: 0.00 mV
+2024-12-20 18:26:39,975 - root - INFO - Spike 238 - Amplitude: 0.00 mV
+2024-12-20 18:26:40,149 - root - INFO - Spike 239 - Amplitude: 0.00 mV
+2024-12-20 18:26:40,373 - root - INFO - Spike 240 - Amplitude: 0.00 mV
+2024-12-20 18:26:40,591 - root - INFO - Spike 241 - Amplitude: 0.00 mV
+2024-12-20 18:26:40,800 - root - INFO - Spike 242 - Amplitude: 0.00 mV
+2024-12-20 18:26:41,020 - root - INFO - Spike 243 - Amplitude: 0.00 mV
+2024-12-20 18:26:41,234 - root - INFO - Spike 244 - Amplitude: 0.00 mV
+2024-12-20 18:26:41,462 - root - INFO - Spike 245 - Amplitude: 0.00 mV
+2024-12-20 18:26:41,668 - root - INFO - Spike 246 - Amplitude: 0.00 mV
+2024-12-20 18:26:41,892 - root - INFO - Spike 247 - Amplitude: 0.00 mV
+2024-12-20 18:26:43,133 - root - INFO - Spike 248 - Amplitude: 0.00 mV
+2024-12-20 18:26:43,641 - root - INFO - Spike 249 - Amplitude: 0.00 mV
+2024-12-20 18:26:43,852 - root - INFO - Spike 250 - Amplitude: 0.00 mV
+2024-12-20 18:26:44,024 - root - INFO - Spike 251 - Amplitude: 0.00 mV
+2024-12-20 18:26:44,244 - root - INFO - Spike 252 - Amplitude: 0.00 mV
+2024-12-20 18:26:44,379 - root - INFO - Spike 253 - Amplitude: 0.00 mV
+2024-12-20 18:26:44,514 - root - INFO - Spike 254 - Amplitude: 0.00 mV
+2024-12-20 18:26:44,655 - root - INFO - Spike 255 - Amplitude: 0.00 mV
+2024-12-20 18:26:44,800 - root - INFO - Spike 256 - Amplitude: 0.00 mV
+2024-12-20 18:26:45,018 - root - INFO - Spike 257 - Amplitude: 0.00 mV
+2024-12-20 18:26:47,645 - root - INFO - Spike 258 - Amplitude: 0.00 mV
+2024-12-20 18:26:47,843 - root - INFO - Spike 259 - Amplitude: 0.00 mV
+2024-12-20 18:27:41,170 - root - INFO - Spike 260 - Amplitude: 0.00 mV
+2024-12-20 18:27:41,562 - root - INFO - Spike 261 - Amplitude: 0.00 mV
+2024-12-20 18:27:41,762 - root - INFO - Spike 262 - Amplitude: 0.00 mV
+2024-12-20 18:27:41,961 - root - INFO - Spike 263 - Amplitude: 0.00 mV
