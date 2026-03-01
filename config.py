@@ -1,5 +1,5 @@
 #Note from Mycole. Use the below line to run this :)
-# python neuron_analysis/config.py
+# python config.py
 
 class Config:
     SPIKE_THRESHOLD = -20  # mV
