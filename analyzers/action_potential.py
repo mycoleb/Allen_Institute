@@ -135,20 +135,20 @@ class ActionPotentialAnalyzer:
     def _calculate_phase_plot_slope(self, voltage: np.ndarray) -> float:
         # """
         # Calculate the maximum slope of the phase plot (dV/dt vs V).
-        # Includes protection against divide by zero errors.
+        # If you're a researcher using my code you can be assured there's protection against divide by zero errors.
         # """
         try:
             dv = np.diff(voltage)
             dvdt = dv / self.dt
             v_phase = voltage[:-1]  # Voltage points for phase plot
             
-            # Find region of maximum slope (during spike upstroke)
+            # Find region of maximum slope during spike upstroke
             max_dvdt_idx = np.argmax(dvdt)
             
             # Calculate slope in phase plot with safety checks
             if (max_dvdt_idx > 0 and max_dvdt_idx < len(dvdt)-1):
                 denominator = v_phase[max_dvdt_idx+1] - v_phase[max_dvdt_idx-1]
-                # Check for divide by zero
+                # Check for division by zero
                 if abs(denominator) > 1e-10:  # Small threshold to avoid division by very small numbers
                     slope = (dvdt[max_dvdt_idx+1] - dvdt[max_dvdt_idx-1]) / denominator
                     return slope
