@@ -255,11 +255,11 @@ def main() -> None:
         # Create summary visualizations
         logging.info(f"\nCreating summary plots for {len(active_sweeps)} active sweeps")
         
-        # Plot stimulus comparison
+        # Plot the stimulus comparison
         visualizer.plot_stimulus_comparison(active_sweeps)
         visualizer.save_plot('stimulus_comparison.png')
         
-        # Plot response heatmap
+        # Plot the response heatmap
         visualizer.plot_response_heatmap(active_sweeps)
         visualizer.save_plot('response_heatmap.png')
         
