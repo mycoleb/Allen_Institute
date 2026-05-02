@@ -1,6 +1,6 @@
 """
 Action potential analysis module for neuronal data processing.
-Provides tools for spike detection and feature extraction from voltage traces.
+This provides tools for spike detection and feature extraction from voltage traces.
 """
 
 import numpy as np
