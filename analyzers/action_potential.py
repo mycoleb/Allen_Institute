@@ -135,7 +135,7 @@ class ActionPotentialAnalyzer:
     def _calculate_phase_plot_slope(self, voltage: np.ndarray) -> float:
         # """
         # Calculate the maximum slope of the phase plot (dV/dt vs V).
-        # If you're a researcher using my code you can be assured there's protection against divide by zero errors.
+        # If you're a researcher using my code you can be assured there's protection against divide by zero errors. You could know that from looking at mycode but it's fun to mention that in the comments also.
         # """
         try:
             dv = np.diff(voltage)
